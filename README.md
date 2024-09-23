@@ -2,7 +2,7 @@
 **Company:** CODTECH IT SOLUTIONS <br>
 **ID:** CT08DS74243 <br>
 **Domain:** MACHINE LEARNING <br>
-**Duration:** June to July 2024 <br>
+**Duration:** August to September 2024 <br>
 
 # Overview of the Project
 
